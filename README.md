@@ -2,12 +2,12 @@
 
 ## About Me
 
-- 👋 Hi, I'm [Your Name].
-- 🌍 I'm from [Your Location].
-- 🎓 I'm a [Your Occupation/Student].
-- 🌱 I'm currently learning [What you're learning].
-- 💼 I'm interested in [Your Interests/Hobbies].
-- 📫 How to reach me: [Your Email Address]
+- 👋 Hi, I'm Yu Shi.
+- 🌍 I'm from China, but am living in Madrid.
+- 🎓 I'm a student.
+- 🌱 I'm currently learning big data.
+- 💼 I'm interested in coding and modelling.
+- 📫 How to reach me: jay.y.shih@student.ie.edu
 
 ## GitHub Stats
 
