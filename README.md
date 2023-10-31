@@ -1,4 +1,4 @@
-Yu Shi 
+<h1 align="center">Hello, I am Yu Shi</h1>
 
 ## About Me
 
@@ -11,7 +11,7 @@ Yu Shi
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YShih07&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 ## Social Media
 
