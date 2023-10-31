@@ -25,10 +25,10 @@
 - LinkedIn: https://www.linkedin.com/in/yu-shi-b9559994/
 - Instagram: [Your Instagram Profile](https://www.instagram.com/yourusername/)
 
-## Projects
+## Education 
 
-- [Project 1](https://github.com/yourusername/project1): Description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of project 2.
+- IE University: Master in Big Data
+- The Universtiy of Hertfordshire: Master in Marketing 
 
 ## Languages and Tools
 
