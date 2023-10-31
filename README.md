@@ -1,4 +1,4 @@
-# [Your Name]
+Yu Shi 
 
 ## About Me
 
@@ -15,8 +15,7 @@
 
 ## Social Media
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: https://www.linkedin.com/in/yu-shi-b9559994/
 - Instagram: [Your Instagram Profile](https://www.instagram.com/yourusername/)
 
 ## Projects
