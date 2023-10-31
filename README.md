@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Yu Shi 👋</h1>
+<h3 align="center">Hello, I am Yu Shi 👋</h3>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/yu-shi-b9559994/">Website</a> •
@@ -13,7 +13,7 @@
 - 🌱 Currently, I'm delving into the world of big data.
 - 💼 My primary interests revolve around coding and modeling.
 
-<p><h3>I'm truly enthusiastic about technology, and my expertise lies in cybersecurity. With 8 years of hands-on experience in this field, I'm fully committed to enhancing security, solving intricate challenges, and actively contributing to the knowledge sharing within the community. When I'm not deeply immersed in the cybersecurity realm, you'll likely find me on the padel or golf course, pursuing my other passions.</h3></p>
+<p><h1>I'm truly enthusiastic about technology, and my expertise lies in cybersecurity. With 8 years of hands-on experience in this field, I'm fully committed to enhancing security, solving intricate challenges, and actively contributing to the knowledge sharing within the community. When I'm not deeply immersed in the cybersecurity realm, you'll likely find me on the padel or golf course, pursuing my other passions.</h1></p>
 
 
 ## GitHub Stats
