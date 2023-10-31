@@ -34,6 +34,7 @@
 
 - 🚀 Skills: [List of Your Skills]
 - 💻 Tools: [List of Tools/Frameworks]
+- 😄 Language: Chinese, English, Cantonese
 
 ## Fun Fact
 
