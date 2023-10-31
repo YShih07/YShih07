@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I am Yu Shi 👋</h1>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/yu-shi-b9559994/">Website</a>
- <a href="https://www.linkedin.com/in/yu-shi-b9559994/">LindedIn</a>
+ <a href="https://www.linkedin.com/in/yu-shi-b9559994/">Website</a> •
+ <a href="https://www.linkedin.com/in/yu-shi-b9559994/">LindedIn</a> •
 </p>
 
 ## About Me
