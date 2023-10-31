@@ -12,7 +12,7 @@
 - 🎓 I'm a student with a strong passion for technology.
 - 🌱 Currently, I'm delving into the world of big data.
 - 💼 My primary interests revolve around coding and modeling.
--I'm truly enthusiastic about technology, and my expertise lies in cybersecurity. With 8 years of hands-on experience in this field, I'm fully committed to enhancing security, solving intricate challenges, and actively contributing to the knowledge sharing within the community. When I'm not deeply immersed in the cybersecurity realm, you'll likely find me on the padel or golf course, pursuing my other passions.
+<a I'm truly enthusiastic about technology, and my expertise lies in cybersecurity. With 8 years of hands-on experience in this field, I'm fully committed to enhancing security, solving intricate challenges, and actively contributing to the knowledge sharing within the community. When I'm not deeply immersed in the cybersecurity realm, you'll likely find me on the padel or golf course, pursuing my other passions.</a>
 
 
 ## GitHub Stats
