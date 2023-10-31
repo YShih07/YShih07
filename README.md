@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Yu Shi</h1>
+<h1 align="center">Hello, I am Yu Shi 👋</h1>
 
 ## About Me
 
